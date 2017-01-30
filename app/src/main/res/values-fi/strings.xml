@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NopeusTesteri</string>
+    <string name="game_lost">Hävisit pelin!</string>
+    <string name="new_game">Uusi peli</string>
+    <string name="close_game">Sulje peli</string>
+    <string name="score">Tulos: </string>
+    <string name="high_scores">Parhaat tulokset</string>
+    <string name="no_scores">Ei tuloksia</string>
+</resources>

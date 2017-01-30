@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpeedTester</string>
+    <string name="game_lost">You lost!</string>
+    <string name="new_game">New game</string>
+    <string name="close_game">Close game</string>
+    <string name="score">Score: </string>
+    <string name="high_scores">Highscores</string>
+    <string name="title_activity_high_score">HighScoreActivity</string>
+    <string name="no_scores">No scores</string>
+</resources>
